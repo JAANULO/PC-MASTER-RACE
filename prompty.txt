@@ -1,0 +1,9 @@
+przeanalizuj plik napisz kod
+przy pisaniu kodu postaraj urzyważ polskich wyrazów
+pooznaczaj w kodzie poszczególne zadania i podpunkty
+wytłumacz działanie kodu poprzez komentarze (pisz z małej litery)
+na koniec przeanalizuj napisany kod i oceń zdodnośc z poleceniem
+
+
+rozwiąż zadanie , tłumacząc krok po kroku
+pokaż każde przekształcenie i obliczenie
