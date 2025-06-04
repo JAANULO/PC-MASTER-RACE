@@ -7,3 +7,4 @@ na koniec przeanalizuj napisany kod i oceń zdodnośc z poleceniem
 
 rozwiąż zadanie , tłumacząc krok po kroku
 pokaż każde przekształcenie i obliczenie
+jeżeli używasz jakiegoś wzory najpierw go wytłumacz
