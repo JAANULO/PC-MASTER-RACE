@@ -5,5 +5,5 @@ wytłumacz działanie kodu poprzez komentarze (pisz z małej litery)
 na koniec przeanalizuj napisany kod i oceń zdodnośc z poleceniem
 
 przeanalizuj i rozwiąż zadanie , tłumacząc KROK PO KROKU
-pokaż KAŻDE przekształcenie i obliczenie
+pokaż KAŻDE przekształcenie oraz KAŻDE obliczenie
 jeżeli używasz jakiegoś wzory najpierw go wytłumacz
